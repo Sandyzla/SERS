@@ -14,7 +14,7 @@ conda activate sers
 # 3. 安装依赖
 pip install -r requirements.txt
 ```
-
+本项目的训练、测试数据集未公开，如需请联系邮箱2511100287@nbu.edu.cn
 ---
 
 ## 📂 系统架构与功能说明
