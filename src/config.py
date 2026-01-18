@@ -22,7 +22,7 @@ class Config:
 
     # --- 3. 训练超参数 ---
     SEED = 42  # 随机种子, 可以随意修改
-    BATCH_SIZE = 320
+    BATCH_SIZE = 64
     EPOCHS = 40  # 迭代次数
     BASE_LR = 0.0001  # 基础学习率
     MASK_LR_SCALE = 40.0  # 掩码学习率倍数（掩码用于降低背景噪声的影响）
